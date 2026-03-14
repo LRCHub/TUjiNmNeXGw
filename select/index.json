@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "マーメイド（feat. 神が残した夢を喰う。）",
+  "base_artist": "ささ。",
+  "createdAt": "2026-03-14T10:32:44.029641Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マーメイド feat.GUMI",
+      "artist": "monaca:factory(10日P) feat. GUMI",
+      "has_synced": false,
+      "path": "select/01_マーメイド_feat.GUMI_monaca_factory(10日P)_feat._GUMI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マーメイド(feat. 神が残した夢を喰う。)",
+      "artist": "ささ。",
+      "has_synced": false,
+      "path": "select/pl_01_マーメイド(feat._神が残した夢を喰う。)_ささ。.txt"
+    }
+  ]
+}
